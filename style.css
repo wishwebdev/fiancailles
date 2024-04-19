@@ -6,3 +6,9 @@ body {font-size:16px;}
 .menu {
     cursor: url(/img/cursor-click32px.png), pointer;
 }
+#services {
+    background-image: url(/imagens/dwimg/IMG_8581.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
